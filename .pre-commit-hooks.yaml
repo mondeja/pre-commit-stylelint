@@ -5,4 +5,4 @@
     'types': [css,scss,sass]
     args: []
     require_serial: false
-    additional_dependencies: ["stylelint@9.8.0"]
+    additional_dependencies: ["stylelint@9.9.0"]
